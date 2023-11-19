@@ -1,5 +1,4 @@
-Flask
-Python
+Flask==2.0.2
 TensorFlow
-Keras 
+Keras
 NumPy
